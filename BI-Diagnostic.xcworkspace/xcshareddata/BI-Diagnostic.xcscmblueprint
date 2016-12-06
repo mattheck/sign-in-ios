@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3A4DE81C2AE42084DF0FC42CE623C8A2D656D800",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "fe415ab4-346e-b541-b4c8-b544a959278d++7497" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3A4DE81C2AE42084DF0FC42CE623C8A2D656D800" : 9223372036854775807,
+    "fe415ab4-346e-b541-b4c8-b544a959278d++7497" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D6198255-526E-401D-A75A-7107197D9FC0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3A4DE81C2AE42084DF0FC42CE623C8A2D656D800" : "sign-in-ios\/",
+    "fe415ab4-346e-b541-b4c8-b544a959278d++7497" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BI-Diagnostic",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BI-Diagnostic.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/medullan\/bicopd-diagnostic-app-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3A4DE81C2AE42084DF0FC42CE623C8A2D656D800"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/10.60.0.91",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "fe415ab4-346e-b541-b4c8-b544a959278d++7497"
+    }
+  ]
+}
